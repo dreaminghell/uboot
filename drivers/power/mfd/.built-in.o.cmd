@@ -1,0 +1,1 @@
+cmd_drivers/power/mfd/built-in.o :=  /media/rk3399/firefly-rk3399/u-boot/../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ld.bfd     -r -o drivers/power/mfd/built-in.o drivers/power/mfd/fusb302.o 
